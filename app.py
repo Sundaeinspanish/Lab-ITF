@@ -1,2 +1,3 @@
-message = "Hello,LAB-ITF"
+# Comments
+message = "Hello, ITF-Lab 2018!!!"
 print(message)
